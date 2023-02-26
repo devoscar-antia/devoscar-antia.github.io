@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/devoscar-antia.github.io/static/css/main.b3165c49.chunk.css",
+    "main.js": "/devoscar-antia.github.io/static/js/main.d7b221fb.chunk.js",
+    "main.js.map": "/devoscar-antia.github.io/static/js/main.d7b221fb.chunk.js.map",
+    "runtime-main.js": "/devoscar-antia.github.io/static/js/runtime-main.5763ea44.js",
+    "runtime-main.js.map": "/devoscar-antia.github.io/static/js/runtime-main.5763ea44.js.map",
+    "static/js/2.9ba597ee.chunk.js": "/devoscar-antia.github.io/static/js/2.9ba597ee.chunk.js",
+    "static/js/2.9ba597ee.chunk.js.map": "/devoscar-antia.github.io/static/js/2.9ba597ee.chunk.js.map",
+    "static/js/3.bf908865.chunk.js": "/devoscar-antia.github.io/static/js/3.bf908865.chunk.js",
+    "static/js/3.bf908865.chunk.js.map": "/devoscar-antia.github.io/static/js/3.bf908865.chunk.js.map",
+    "index.html": "/devoscar-antia.github.io/index.html",
+    "static/css/main.b3165c49.chunk.css.map": "/devoscar-antia.github.io/static/css/main.b3165c49.chunk.css.map",
+    "static/js/2.9ba597ee.chunk.js.LICENSE.txt": "/devoscar-antia.github.io/static/js/2.9ba597ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5763ea44.js",
+    "static/js/2.9ba597ee.chunk.js",
+    "static/css/main.b3165c49.chunk.css",
+    "static/js/main.d7b221fb.chunk.js"
+  ]
+}
